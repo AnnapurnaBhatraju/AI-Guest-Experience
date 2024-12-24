@@ -1,6 +1,2 @@
 API_KEY_FILE.txt
-git
-
-
-
-
+# Ignore other sensitive files here
